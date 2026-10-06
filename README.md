@@ -1,3 +1,3 @@
 # Hi, I'm Sean 👋
 
-Software Engineer building things I find interesting.
+Software Engineer building software for manufacturing, supply chain, automation, and operations. 
